@@ -10,7 +10,7 @@ or
 Now
 `cd AEON`
 and execute script by
-`. aeon.sh`
+`./aeon.sh`
 that's it.
 
 # Credits
