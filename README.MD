@@ -5,6 +5,8 @@ I did for J7nxt. If you know how, You can port for rest of the 7870.
 # How to Git Clone
 Open Your terminal (Ctrl + Alt +t) copy paste this
 `git clone -b master https://github.com/davinash97/AEON.git`
+or
+`git clone -b master https://github.com/DereckySany/AEON.git`
 Now
 `cd AEON`
 and execute script by
